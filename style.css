@@ -91,6 +91,7 @@ button {
     display: flex;
     gap: 30px;
     justify-content: center;
+    align-items: center;
 }
 
 .web-mid img {
